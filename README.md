@@ -1,8 +1,3 @@
-# advent2_flip_animations
+# FlipAnimation
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Flip images around by tapping on a button
